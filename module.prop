@@ -1,0 +1,6 @@
+id=spacewar-daily-profile
+name=Spacewar Daily Profile
+version=1.0.9
+versionCode=109
+author=EzerchE
+description=Stability-first Spacewar profile with radio-idle policy, safe pre-init LZ4 and on-demand health diagnostics for the Willays kernel.
